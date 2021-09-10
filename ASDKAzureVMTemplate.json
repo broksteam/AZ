@@ -74,7 +74,7 @@
 			"type": "string",
 			"defaultValue": "Standard_E16s_v3",
 			"allowedValues": [
-        "Standard_E16s_v3",
+        			"Standard_E16s_v3",
 				"Standard_E32s_v3",
 				"Standard_E48s_v3"
 			],
